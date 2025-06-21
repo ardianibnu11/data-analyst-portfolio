@@ -1,2 +1,2 @@
 # data-analyst-portfolio
-My portfolio projects using Power BI and Tableau
+My portofolio projects using Power BI and Tableau
