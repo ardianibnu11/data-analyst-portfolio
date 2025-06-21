@@ -46,7 +46,7 @@ Dashboard untuk memahami pemetaan sekolah di Indonesia.
 
 ## 📫 Contact
 
-- 📧 Email: ardian.ibnurosyidianto@gmail.com  
+- 📧 Email: ardianibnu11@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/ardian-ibnurosyidianto-125144227](https://www.linkedin.com/in/ardian-ibnurosyidianto-125144227/)
 
 ---
