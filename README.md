@@ -28,6 +28,19 @@ Analisis berbagai brand, klasifikasi terapeutik, dan bentuk sediaan obat di Indi
 
 ---
 
+### 📌 Remote Work & Health Impact (2025)
+
+Analisis pengaruh pengaturan kerja (remote, hybrid, onsite) terhadap burnout, jam kerja, dan kesehatan mental.
+
+- 📂 File: [`RemoteWorkDashboard.pbix`]([PowerBI/Remote%20Work%20%26%20Health%20Impact%202025.pbix])
+- 📊 Dataset: [`remote_work_health_2025.xlsx`](PowerBI/post_pandemic_remote_work_health_impact_2025.xlsx)
+- 📄 PowerPoint: [`RemoteWorkDashboard.pptx`](PowerBI/Remote%20Work%20%26%20Health%20Impact%202025.pptx)
+- 🖼️ Preview:
+
+  ![Dashboard Preview](PowerBI/Remote%20Work%20%26%20Health%20Impact%202025.png)
+
+---
+
 ## 🟣 Tableau Projects
 
 ### 📌 E-Commerce Customer Dashboard
